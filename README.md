@@ -5,6 +5,13 @@ Currently building production payment + analytics systems at Refex.
 
 ### 🔧 What I'm working on
 
+**[myopic](https://github.com/SurajKGoyal/myopic)** — open-source MCP server for
+AI code review that reads a merge request against the *whole* codebase, not just
+the diff: token-safe diffs, graph context (dependency impact + call chains via
+tree-sitter), optional local semantic search, and inline comment posting. Works
+on GitLab and GitHub.
+*PyPI · Linux Foundation MCP Registry · Python · tree-sitter · LanceDB · Ollama*
+
 **[amnesic](https://github.com/SurajKGoyal/amnesic)** — open-source MCP server
 that gives AI clients (Claude, Cursor, Copilot, Gemini) persistent semantic
 memory of your SQL databases. The first MCP DB server with a purpose-built
@@ -33,4 +40,5 @@ stability initiatives and code-review standards.
 
 [LinkedIn](https://linkedin.com/in/suraj-goyal) ·
 [Twitter / X](https://twitter.com/SurajKGoyal) ·
+[myopic](https://github.com/SurajKGoyal/myopic) ·
 [amnesic](https://github.com/SurajKGoyal/amnesic)
