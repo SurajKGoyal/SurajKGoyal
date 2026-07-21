@@ -1,6 +1,6 @@
 ## Hi, I'm Suraj 👋
 
-Software Engineer · 7+ years across mobile, web, and backend ·
+Software Engineer · 8 years across mobile, web, and backend ·
 Currently building production payment + analytics systems at Refex.
 
 ### 🔧 What I'm working on
